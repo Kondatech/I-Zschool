@@ -1,0 +1,96 @@
+.tete
+{
+    font-size: 100px;/*pour agrandit l'ecriture*/
+    font-family: Impact ;
+    font-style: italic;
+    background-color: rgb(253, 41, 4);
+    color: darkblue;
+    text-align: center;
+    border: 5px solid black; 
+}
+nav
+{
+    display: inline-block; 
+    width: 150px; 
+    border: 1px solid black; 
+    vertical-align: top;
+    background-color: rgb(231, 18, 185);
+}
+.pied
+{
+    font-size: 30px; 
+    font-family: impact;
+    background-color: aquamarine;
+    color: red;
+    text-align: center;
+    width: 100%    
+}
+
+img
+{
+    width: 100%;
+    height: 100%;
+}
+#fr
+{
+    width: 30%;
+    height: 30%;
+    border: 5px solid rgb(236, 233, 14); 
+}
+#re
+{
+    width: 30%;
+    height: 30%;
+    border: 5px solid rgb(14, 245, 14); 
+}
+.tre
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#hb 
+{
+    width: 30%;
+    height: 30%;
+    border: 5px solid red; 
+}
+.gg{
+
+    text-align: center;
+    font-size: 100px;
+    color: brown;
+    width: 100%;
+    font-family: Impact ;
+}
+#ds
+{
+    font-family: Impact ;
+    font-size: 30px;
+}
+.ed
+{
+    font-size: 20px;
+    font-family: Impact ;
+    font-style: italic;
+    text-align: center;
+   
+}
+.jt{
+    font-family: Impact ;
+    font-style: italic;
+    text-align: left;
+   border: 5px solid black;
+}
+.lt{
+    font-family: Impact ;
+    font-style: italic;
+    text-align: right;
+    border: 5px solid black;
+
+}
+#fg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
